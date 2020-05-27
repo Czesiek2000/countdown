@@ -1,6 +1,6 @@
 const countdown = document.getElementById('countdown');
 // Deadline date in ms
-const deadline = new Date('Jan 30, 2023 13:00:00').getTime();
+const deadline = new Date('Jan 30, 2024 13:00:00').getTime();
 
 function count() {
   // today date in ms
